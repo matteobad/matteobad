@@ -17,8 +17,7 @@
 
 ### 🐱‍👤 Recent Github Activity
 
-<img align="left" alt="Matteo Badini's Github Stats" src="https://github-readme-stats-topaz-iota.vercel.app
-/api?username=matteobad&show_icons=true&hide_border=true" />
+<img align="left" alt="Matteo Badini's Github Stats" src="https://github-readme-stats-topaz-iota.vercel.app/api?username=matteobad&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
