@@ -1,4 +1,4 @@
-# Hi there, I'm Matteo - aka [bad][website] 👋
+## Hi there, I'm Matteo - aka [bad][website] 👋 [<img align="right" alt="matteobad.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website][<img align="right" alt="Matteo Badini | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter][<img align="right" alt="Matteo Badini | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -21,13 +21,6 @@
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
-<br />
-<br />
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [website]: https://matteobad.github.io
 [twitter]: https://twitter.com/matteo_badini
