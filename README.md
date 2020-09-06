@@ -19,6 +19,9 @@
 
 <img align="left" alt="Matteo Badini's Github Stats" src="https://github-readme-stats-topaz-iota.vercel.app/api?username=matteobad&show_icons=true&hide_border=true" />
 
+<br />
+<br />
+
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#78](https://github.com//matteobad/focus-within-polyfill/pull/78) in [matteobad/focus-within-polyfill](https://github.com//matteobad/focus-within-polyfill)
 2. 🎉 Merged PR [#77](https://github.com//matteobad/focus-within-polyfill/pull/77) in [matteobad/focus-within-polyfill](https://github.com//matteobad/focus-within-polyfill)
