@@ -23,8 +23,8 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#90](https://github.com/fregante/object-fit-images/issues/90) in [fregante/object-fit-images](https://github.com/fregante/object-fit-images)
-2. 🎉 Merged PR [#83](https://github.com/matteobad/focus-within-polyfill/pull/83) in [matteobad/focus-within-polyfill](https://github.com/matteobad/focus-within-polyfill)
+1. ❗️ Opened issue [#95](https://github.com/webdeveric/webpack-assets-manifest/issues/95) in [webdeveric/webpack-assets-manifest](https://github.com/webdeveric/webpack-assets-manifest)
+2. 🗣 Commented on [#90](https://github.com/fregante/object-fit-images/issues/90) in [fregante/object-fit-images](https://github.com/fregante/object-fit-images)
 <!--END_SECTION:activity-->
 
 [website]: https://matteobad.github.io
