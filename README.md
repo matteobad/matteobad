@@ -23,8 +23,8 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#95](https://github.com/webdeveric/webpack-assets-manifest/issues/95) in [webdeveric/webpack-assets-manifest](https://github.com/webdeveric/webpack-assets-manifest)
-2. 🗣 Commented on [#90](https://github.com/fregante/object-fit-images/issues/90) in [fregante/object-fit-images](https://github.com/fregante/object-fit-images)
+1. 🗣 Commented on [#95](https://github.com/webdeveric/webpack-assets-manifest/issues/95) in [webdeveric/webpack-assets-manifest](https://github.com/webdeveric/webpack-assets-manifest)
+2. ❗️ Opened issue [#95](https://github.com/webdeveric/webpack-assets-manifest/issues/95) in [webdeveric/webpack-assets-manifest](https://github.com/webdeveric/webpack-assets-manifest)
 <!--END_SECTION:activity-->
 
 [website]: https://matteobad.github.io
