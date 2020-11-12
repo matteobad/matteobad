@@ -23,8 +23,8 @@
 <br />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#95](https://github.com/webdeveric/webpack-assets-manifest/issues/95) in [webdeveric/webpack-assets-manifest](https://github.com/webdeveric/webpack-assets-manifest)
-2. ❗️ Opened issue [#95](https://github.com/webdeveric/webpack-assets-manifest/issues/95) in [webdeveric/webpack-assets-manifest](https://github.com/webdeveric/webpack-assets-manifest)
+1. ❗️ Closed issue [#84](https://github.com/matteobad/focus-within-polyfill/issues/84) in [matteobad/focus-within-polyfill](https://github.com/matteobad/focus-within-polyfill)
+2. 🗣 Commented on [#84](https://github.com/matteobad/focus-within-polyfill/issues/84) in [matteobad/focus-within-polyfill](https://github.com/matteobad/focus-within-polyfill)
 <!--END_SECTION:activity-->
 
 [website]: https://matteobad.github.io
